@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xml:base="http://www.nasa.gov/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss"/>
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA InSight Lander 'Hears' Martian Winds</title>
+ <link>http://www.nasa.gov/press-release/nasa-insight-lander-hears-martian-winds</link>
+ <description>NASA's Interior Exploration using Seismic Investigations, Geodesy and Heat Transport (InSight) lander, which touched down on Mars just 10 days ago, has provided the first ever "sounds" of Martian winds on the Red Planet. A media teleconference about these sounds will be held today at 12:30 p.m. EST (9:30 a.m. PST).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/18-113_0.jpg?itok=o8c7QpWW" length="302289" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-insight-lander-hears-martian-winds</guid>
+ <pubDate>Fri, 07 Dec 2018 11:13 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>437076</dc:identifier>
+</item>
+ <item> <title>NASA TV to Air ‘Spirit of Apollo’ Tribute from National Cathedral</title>
+ <link>http://www.nasa.gov/press-release/nasa-tv-to-air-spirit-of-apollo-tribute-from-national-cathedral</link>
+ <description>This month marks the 50th anniversary of NASA’s Apollo 8 mission, which was the first to bring humans to another world as they orbited the Moon on Christmas Eve, 1968.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/3-as08-14-2383a.jpg?itok=hwYpzMpg" length="501595" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-tv-to-air-spirit-of-apollo-tribute-from-national-cathedral</guid>
+ <pubDate>Fri, 07 Dec 2018 09:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>437070</dc:identifier>
+</item>
+ <item> <title>Coverage Set for Russian Spacewalk at International Space Station</title>
+ <link>http://www.nasa.gov/press-release/coverage-set-for-russian-spacewalk-at-international-space-station</link>
+ <description>Two Russian cosmonauts will venture outside the International Space Station at 11 a.m. EST Tuesday, Dec. 11, to conduct a six-hour spacewalk.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/44050871972_c072b91f9b_k.jpg?itok=Mz6Su7xb" length="1405196" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/coverage-set-for-russian-spacewalk-at-international-space-station</guid>
+ <pubDate>Thu, 06 Dec 2018 15:37 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>437029</dc:identifier>
+</item>
+ <item> <title>NASA Highlights Asteroid Bennu, Earth’s Polar Ice at AGU Meeting</title>
+ <link>http://www.nasa.gov/press-release/nasa-highlights-asteroid-bennu-earth-s-polar-ice-at-agu-meeting</link>
+ <description>NASA researchers will present new findings on a wide range of Earth and space science topics at the annual meeting of the American Geophysical Union (AGU), Dec. 10-14 in Washington.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/icesat-2_image_above_earth.jpg?itok=l8i6QQTT" length="418764" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-highlights-asteroid-bennu-earth-s-polar-ice-at-agu-meeting</guid>
+ <pubDate>Thu, 06 Dec 2018 14:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>437021</dc:identifier>
+</item>
+ <item> <title>NASA Sends New Research, Hardware to Space Station on SpaceX Mission</title>
+ <link>http://www.nasa.gov/press-release/nasa-sends-new-research-hardware-to-space-station-on-spacex-mission</link>
+ <description>Experiments in forest observation, protein crystal growth and in-space fuel transfer demonstration are heading to the International Space Station following the launch Wednesday of SpaceX’s 16th mission for NASA under the agency’s Commercial Resupply Services contract.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/crs16.png?itok=82prqhUM" length="936357" type="image/png"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-sends-new-research-hardware-to-space-station-on-spacex-mission</guid>
+ <pubDate>Wed, 05 Dec 2018 13:36 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436947</dc:identifier>
+</item>
+ <item> <title>Florida Students to Speak with First Cuban-American Astronaut on Space Station</title>
+ <link>http://www.nasa.gov/press-release/florida-students-to-speak-with-first-cuban-american-astronaut-on-space-station</link>
+ <description>Elementary school students from Florida will talk live this week with the first Cuban-American astronaut to live and work aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/downlink_media_advisory_picture_-_week_of_12-2.jpg?itok=_2EjIBXi" length="3312553" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/florida-students-to-speak-with-first-cuban-american-astronaut-on-space-station</guid>
+ <pubDate>Tue, 04 Dec 2018 12:56 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436880</dc:identifier>
+</item>
+ <item> <title>NASA's OSIRIS-REx Spacecraft Arrives at Asteroid Bennu</title>
+ <link>http://www.nasa.gov/press-release/nasas-osiris-rex-spacecraft-arrives-at-asteroid-bennu</link>
+ <description>NASA’s Origins, Spectral Interpretation, Resource Identification, Security-Regolith Explorer (OSIRIS-REx) spacecraft completed its 1.2 billion-mile (2 billion-kilometer) journey to arrive at the asteroid Bennu Monday.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/arrival-bennu-full-rotation.jpg?itok=oF-YXy9d" length="206545" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasas-osiris-rex-spacecraft-arrives-at-asteroid-bennu</guid>
+ <pubDate>Mon, 03 Dec 2018 17:25 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436830</dc:identifier>
+</item>
+ <item> <title>NASA Astronaut Anne McClain and Crewmates Arrive Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-anne-mcclain-and-crewmates-arrive-aboard-space-station</link>
+ <description>Three crew members are adjusting to life on the International Space Station after a successful launch and docking of their Russian Soyuz MS-11 spacecraft Monday.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/31222480597_93d5f3fe7c_k.jpg?itok=z_salaDe" length="651969" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-anne-mcclain-and-crewmates-arrive-aboard-space-station</guid>
+ <pubDate>Mon, 03 Dec 2018 14:42 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436811</dc:identifier>
+</item>
+ <item> <title>NASA Astronaut Nick Hague Set for New Space Station Mission After Abort</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-nick-hague-set-for-new-space-station-mission-after-abort</link>
+ <description>NASA astronaut Nick Hague, who was forced to abort his recent mission to the International Space Station, is scheduled to launch again Feb. 28, 2019, from the Baikonour Cosmodrome in Kazakhstan.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/18-106.jpg?itok=dEfU306U" length="2609904" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-nick-hague-set-for-new-space-station-mission-after-abort</guid>
+ <pubDate>Mon, 03 Dec 2018 13:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436802</dc:identifier>
+</item>
+ <item> <title>NASA Administrator Statement on Passing of George H.W. Bush</title>
+ <link>http://www.nasa.gov/press-release/nasa-administrator-statement-on-passing-of-george-hw-bush</link>
+ <description>The following is a statement from NASA Administrator Jim Bridenstine about the passing of former President George Herbert Walker Bush:</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/president_george_hw_bush_sts-26.jpg?itok=p-lsMxbT" length="2544133" type="image/jpeg"/>
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-administrator-statement-on-passing-of-george-hw-bush</guid>
+ <pubDate>Sat, 01 Dec 2018 09:55 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>436716</dc:identifier>
+</item>
+</channel>
+</rss>
